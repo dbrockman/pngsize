@@ -1,6 +1,6 @@
 {
   "name": "pngsize",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Get the width and height of a PNG image or buffer.",
   "author": "David Brockman Smoliansky",
   "main": "index.js",
