@@ -1,0 +1,17 @@
+{
+  "name": "pngsize",
+  "version": "0.1.0",
+  "description": "Get the width and height of a PNG image or buffer.",
+  "author": "David Brockman Smoliansky",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dbrockman/pngsize.git"
+  },
+  "bugs": {
+    "url": "http://github.com/dbrockman/pngsize/issues"
+  },
+  "keywords": [
+    "png", "size", "width", "height"
+  ]
+}
