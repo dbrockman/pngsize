@@ -1,5 +1,7 @@
 # PNG size function
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dbrockman/pngsize.svg)](https://greenkeeper.io/)
+
 ```
 npm install pngsize
 ```
